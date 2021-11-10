@@ -1,4 +1,4 @@
-print("Encryption with Caesar code is based on an alphabet shift (move of letters further in the alphabet),"
+print("Encryption with Caesar code is based on an alphabet shift (move of letters further in the alphabet),\n"
       "it is a monoalphabetic substitution cipher, ie. a same letter is replaced with only one other (always the same for given cipher message).")
 
 def caesar_cipher():

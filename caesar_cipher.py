@@ -1,3 +1,14 @@
+#-------------------------------------------------------------------------------
+# Name:        Cipher Code
+# Purpose:     Fun
+#
+# Author:      nicolescu
+#
+# Created:     10/11/2021
+# Copyright:   (c) nicol 2021
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
 print("Encryption with Caesar code is based on an alphabet shift (move of letters further in the alphabet),\n"
       "it is a monoalphabetic substitution cipher, ie. a same letter is replaced with only one other (always the same for given cipher message).")
 
